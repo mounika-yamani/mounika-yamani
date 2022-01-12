@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mounika-yamani
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on different projects
 
 
 <!---
